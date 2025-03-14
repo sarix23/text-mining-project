@@ -87,6 +87,7 @@ The following libraries are required for this project:
 💡 *If `skfuzzy` installation issues arise, try:*  
 ```bash
 pip install -U scikit-fuzzy
+```
 
 ## **📜License**:
 📝 MIT License – Free to use, modify, and distribute.
